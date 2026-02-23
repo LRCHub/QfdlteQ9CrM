@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "出会わなきゃよかったって、本気で思ったりもしたよ。",
+  "base_artist": "ENEMY FLECK",
+  "createdAt": "2026-02-23T16:02:51.250412Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "出会わなきゃよかったって、本気で思ったりもしたよ。",
+      "artist": "ENEMY FLECK",
+      "has_synced": false,
+      "path": "select/pl_01_出会わなきゃよかったって、本気で思ったりもしたよ。_ENEMY_FLECK.txt"
+    }
+  ]
+}
